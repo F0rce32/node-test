@@ -1,0 +1,14 @@
+
+.ios .navbar~.page-content, .ios .navbar~:not(.no-navbar) .page-content {
+    padding-top: 26px;
+}
+
+/* colors */
+
+.sec-color {
+  color: #c4c4c4;
+}
+
+.padding-left {
+  padding-left: 5px;
+}
